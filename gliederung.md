@@ -69,3 +69,6 @@ Transparenz: Es ist wichtig, dem Nutzer gegenüber transparent mit der Fehlerwah
 Gesellschaftliche Auswirkungen: Positiv ist das Potenzial zur Verbesserung des Kundenerlebnisses; negativ die Gefahr des Missbrauchs zur Überwachung.
 
 Weiterführende Forschung: Kombination von Gesichtsausdrücken mit Tonanalyse für multimodale Emotionserkennung, Anwendung auf Videos in Echtzeit, Erweiterung auf weitere Emotionen.
+
+
+https://www.kaggle.com/datasets/msambare/fer2013
