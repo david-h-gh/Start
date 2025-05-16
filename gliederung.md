@@ -1,5 +1,5 @@
 1 Introduction
-polars/pandas
+
 Motivation
 
 Unternehmen sind zunehmend daran interessiert, die Kundenzufriedenheit in Echtzeit zu erfassen. Klassische Methoden wie Umfragen sind aufwendig und bieten kein unmittelbares Feedback. Durch die automatisierte Analyse von Gesichtsausdrücken mithilfe von Machine Learning kann ein System entwickelt werden, das die Stimmung von Kunden erkennt und so wertvolle Erkenntnisse über das Kundenerlebnis liefert.
@@ -72,3 +72,4 @@ Weiterführende Forschung: Kombination von Gesichtsausdrücken mit Tonanalyse f�
 
 
 https://www.kaggle.com/datasets/msambare/fer2013
+polars/pandas
